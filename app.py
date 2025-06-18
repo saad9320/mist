@@ -105,11 +105,7 @@ else:
     st.warning("Please login or register to use the app.")
 
 st.table([
-    {"Feature": "User Authentication", "Status": "✅"},
-    {"Feature": "Chat Messages", "Status": "✅"},
-    {"Feature": "File Upload", "Status": "✅"},
-    {"Feature": "Image Display", "Status": "✅"},
-    {"Feature": "Chat History", "Status": "✅"},
+   
     {"Feature": "Admin Controls", "Status": "✅ (Admin only)"},
 
 ])
